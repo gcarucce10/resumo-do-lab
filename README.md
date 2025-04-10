@@ -2,9 +2,9 @@
 
 ## 📌 O que é Computação em Nuvem?
 
-Computação em Nuvem (Cloud Computing) é um modelo de entrega de serviços de computação pela internet. Isso inclui servidores, armazenamento, bancos de dados, redes, software e mais — tudo acessado sob demanda e geralmente pago conforme o uso.
+Computação em Nuvem (Cloud Computing) é um modelo de entrega de serviços de computação pela internet. Isso inclui servidores, armazenamento, bancos de dados, redes, software e mais — tudo acessado sob demanda e normalmente pago conforme o uso.
 
-Esse modelo permite que empresas e usuários evitem investimentos pesados em infraestrutura física, ganhando **escalabilidade**, **flexibilidade** e **redução de custos operacionais**.
+Esse modelo permite que empresas e usuários evitem investimentos pesados em infraestrutura física, ganhando **escalabilidade**, **flexibilidade** e **redução de custos operacionais**. O investimento inicial pesado em uma infraestrutura On-Premise pode inviabilizar um negócio.
 
 ---
 
@@ -22,15 +22,12 @@ Esse modelo permite que empresas e usuários evitem investimentos pesados em inf
 
 - **IaaS (Infraestrutura como Serviço):**  
   Fornece infraestrutura virtualizada (servidores, redes, armazenamento).  
-  _Exemplos: AWS EC2, Google Compute Engine, Azure Virtual Machines._
 
 - **PaaS (Plataforma como Serviço):**  
   Oferece ambientes prontos para desenvolvimento e deploy de aplicações.  
-  _Exemplos: Heroku, Google App Engine, Azure App Service._
 
 - **SaaS (Software como Serviço):**  
   Softwares completos acessíveis pela internet, sem necessidade de instalação local.  
-  _Exemplos: Gmail, Microsoft 365, Google Docs._
 
 ---
 
